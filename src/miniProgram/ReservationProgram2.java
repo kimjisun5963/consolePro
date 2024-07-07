@@ -32,6 +32,8 @@ public class ReservationProgram2 {
 			}
 		}
 		System.err.println("모든 좌석이 매진되었습니다.");
+		
+		
 	}
 
 }
